@@ -1,4 +1,7 @@
-# Financial Forecasting Application
+# Financial Forecasting App
+
+![forecast-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/819995eb-ed44-42ca-be85-c65fed1f63e3)
+
 
 ## Overview
 This Streamlit-based application provides interactive financial time series forecasting capabilities. It allows users to upload financial data, visualize trends, and generate forecasts using various statistical models.
